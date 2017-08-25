@@ -5,7 +5,7 @@ an python shell to  restart tomcat
 亦可以通过部署 成为开机启动脚本
 #主要修改以下两个文件的环境变量，缺一不可：
 
-##一： /rc.local文件
+# #一： /rc.local文件
 ###vim /etc/rc.d/rc.local
 #####/etc/rc.d/rc.local和/etc/rc.local其实是一个文件，软链接
 ####文件头部 原来是 #!/bin/bash 
