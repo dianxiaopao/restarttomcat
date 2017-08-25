@@ -16,8 +16,8 @@ an python shell to  restart tomcat
 
 ### 1.
 ###### export PATH=/usr/local/java/jdk1.8.0_73/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/usr/local/mysql/bin:/root/bin
-######注意：环境变量可以使用 echo $PATH 查看
-######手动的设置环境变量，因为系统开机过程中 环境变量无法读取
+###### 注意：环境变量可以使用 echo $PATH 查看
+###### 手动的设置环境变量，因为系统开机过程中 环境变量无法读取
 ### 2.
 ######/usr/bin/python /usr/local/src/startserver.py
 
